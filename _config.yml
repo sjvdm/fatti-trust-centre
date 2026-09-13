@@ -1,0 +1,16 @@
+title: Fatti Trust Centre
+description: Public information about Fatti's security, privacy, architecture and service resilience.
+url: "https://sjvdm.github.io"
+baseurl: "/fatti-trust-centre"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - scripts
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
