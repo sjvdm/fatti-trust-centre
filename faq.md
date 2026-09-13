@@ -27,6 +27,8 @@ No. Software restoration, central-service recovery and physical equipment replac
 
 Yes. Send the questionnaire to your Fatti contact with the service and venue scope, requested deadline and any required evidence format. Responses are prepared from Fatti's controlled internal documentation and reviewed for the applicable engagement.
 
+Security, privacy and technical questionnaires can be sent to [sj@fatti.co.za](mailto:sj@fatti.co.za) and [jaco@fatti.co.za](mailto:jaco@fatti.co.za).
+
 ## Can we receive detailed evidence?
 
 Approved evidence may be provided through an appropriate confidential review where it is relevant and safe to disclose. Internal vulnerabilities, detailed topology, credentials, personal information and unrelated client records are not public trust-centre content.
@@ -34,4 +36,3 @@ Approved evidence may be provided through an appropriate confidential review whe
 ## How current is this site?
 
 The footer shows the latest content review date. Material changes are prepared in Fatti's private master documentation and published through a reviewed pull request to the protected public repository.
-

@@ -24,5 +24,4 @@ This public trust centre does not claim that every data path is encrypted in the
 
 ## Reporting a concern
 
-Please report a suspected security issue through your Fatti account or support contact, with the affected service and enough detail for safe triage. Do not include passwords, access tokens or unnecessary personal information.
-
+Please report a suspected security issue to [sj@fatti.co.za](mailto:sj@fatti.co.za) and [jaco@fatti.co.za](mailto:jaco@fatti.co.za), with the affected service and enough detail for safe triage. Do not include passwords, access tokens or unnecessary personal information.
