@@ -11,6 +11,7 @@ PAGES = {
     "security.md": "/security/",
     "privacy.md": "/privacy/",
     "resilience.md": "/resilience/",
+    "recovery-objectives.md": "/recovery-objectives/",
     "faq.md": "/faq/",
 }
 FORBIDDEN = [
@@ -62,7 +63,7 @@ def main() -> int:
             if pattern.search(text):
                 errors.append(f"{rel}: {label}")
         for target in re.findall(r"href=[\"']([^\"']+)[\"']", text):
-            if target.startswith(("http://", "https://", "#", "{{")):
+            if target.startswith(("http://", "https://", "mailto:", "#", "{{")):
                 continue
             errors.append(f"{rel}: unmanaged local HTML link {target}")
 
@@ -75,4 +76,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-
