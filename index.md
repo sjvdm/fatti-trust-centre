@@ -17,6 +17,7 @@ permalink: /
   <a class="card" href="{{ '/security/' | relative_url }}"><h3>Security</h3><p>How Fatti approaches access, network protection, monitoring and change.</p><span class="arrow">Explore →</span></a>
   <a class="card" href="{{ '/privacy/' | relative_url }}"><h3>Privacy</h3><p>What information the service may process and why roles differ by deployment.</p><span class="arrow">Explore →</span></a>
   <a class="card" href="{{ '/resilience/' | relative_url }}"><h3>Resilience</h3><p>How recovery planning separates software, central services and site dependencies.</p><span class="arrow">Explore →</span></a>
+  <a class="card" href="{{ '/recovery-objectives/' | relative_url }}"><h3>RTO and RPO</h3><p>How architecture, failover, backups and dependencies shape achievable recovery targets.</p><span class="arrow">Explore →</span></a>
   <a class="card" href="{{ '/faq/' | relative_url }}"><h3>Questions</h3><p>Answers on assurance, compliance, evidence and client-specific reviews.</p><span class="arrow">Explore →</span></a>
 </section>
 
@@ -26,3 +27,4 @@ Use these pages for an initial review. Fatti can answer a client questionnaire a
 
 This site is versioned in Git. Published changes pass through a controlled review process and the public repository's protected branch.
 
+For security, privacy or technical assurance queries, contact [sj@fatti.co.za](mailto:sj@fatti.co.za) or [jaco@fatti.co.za](mailto:jaco@fatti.co.za).

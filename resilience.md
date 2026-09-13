@@ -22,3 +22,4 @@ Recovery time objectives, recovery point objectives, high availability and repla
 
 Fatti can provide a scoped response for a client questionnaire. The response should identify assumptions, customer dependencies and whether a value is a target, a tested result or a contractual commitment.
 
+See [Recovery objectives]({{ '/recovery-objectives/' | relative_url }}) for the questions Fatti uses to establish an achievable RTO and RPO.
